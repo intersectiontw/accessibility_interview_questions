@@ -4,7 +4,7 @@
 
 就利用以下問題展開對話吧。得知對方如何解決問題；如何解讀無障礙、具有包容性的使用者經驗，這比起是否能背誦出規格和鍵盤熱鍵好多了。
 
-問題分類成三種：[一般](#一般)、[技術](#技術)與[設計](#設計)。這些分類可能不正確，但目前就先用這樣來分。如果你有更好的分類方式，或有任何問題，請[跟我們說](https://github.com/ymcheung/accessibility_interview_questions/issues)！理想的情況下，一名面試者應該可以回答每個類別裡的問題。
+問題分類成三種：[一般](#一般)、[技術](#技術)與[設計](#設計)。這些分類可能不正確，但目前就先用這樣來分。如果你有更好的分類方式，或有任何問題，請[跟我們說](https://github.com/intersectiontw/accessibility_interview_questions/issues)！理想的情況下，一名面試者應該可以回答每個類別裡的問題。
 
 
 ## 一般
@@ -61,7 +61,7 @@
 
 
 ## 有想加入的問題？
-請開 issue（[中文](https://github.com/ymcheung/accessibility_interview_questions/issues)、[英文](https://github.com/scottaohara/accessibility_interview_questions/issues)），或送來 pull request（[中文](https://github.com/ymcheung/accessibility_interview_questions/pulls)、[英文](https://github.com/scottaohara/accessibility_interview_questions/pulls)），將斟酌納入您的意見。
+請開 issue（[中文](https://github.com/intersectiontw/accessibility_interview_questions/issues)、[英文](https://github.com/scottaohara/accessibility_interview_questions/issues)），或送來 pull request（[中文](https://github.com/intersectiontw/accessibility_interview_questions/pulls)、[英文](https://github.com/scottaohara/accessibility_interview_questions/pulls)），將斟酌納入您的意見。
 
 
 ## 感謝
